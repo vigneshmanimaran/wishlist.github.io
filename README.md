@@ -2,7 +2,7 @@
  
 I designed wishlist page for the swag of India website. In this webpage I created cart tab so that when clicking on the cart icon, the product gets added to the cart and its shows how many products added and what product added to the cart and by clickingon the cart tab it shows the details of the product whether you can add as many product or you can remove the product from the cart. In addition to that, I created wishlist tab similiar to cart tab but if the user wants to add product to wishlist or cart they can add or remove depends upon their needs.The screenshot or by clicking on the website link shows the detailed information.
 
-please check my webpage here : 
+please check my webpage here : https://vigneshmanimaran.github.io/wishlist.github.io/
 
 Here I attched the screenshots of the webpage
 
